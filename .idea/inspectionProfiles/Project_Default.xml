@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bool.__getitem__" />
+          <option value="son_topish.SonTopish.___name__" />
+          <option value="boot.bot" />
+          <option value="list.rstrip" />
+          <option value="apikey.APIKEY" />
+          <option value="googlemaps.client.Client.geocode" />
+          <option value="typing.TextIO.__getitem__" />
+          <option value="uz.homevork.lesson36.name_test.NameTest.assertEqual" />
+          <option value="django.path" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
